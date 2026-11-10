@@ -1,0 +1,5 @@
+com\banque\client\ClientSOAP.class
+com\banque\Compte.class
+com\banque\DemoJAXB.class
+com\banque\BanqueService.class
+com\banque\Serveur.class
